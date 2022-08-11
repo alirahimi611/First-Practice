@@ -1,6 +1,15 @@
-const ali = (value)=>{
-    console.log(value);
-}
 
-
-ali("ali")
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
+console.log("ali");
